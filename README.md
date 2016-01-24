@@ -15,7 +15,9 @@ A simple utility to create a exe for a nwjs app in windows
 5. The app is packed with all the requirements in the executable folder inside the app folder.
 
 # Folder structure
+```
 project
 |- nwjs: all the mwjs files
 |- app: all the files of your app and the PackNW.bat
 	|- executable: the final folder with the exe
+```
